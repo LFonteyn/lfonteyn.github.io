@@ -1,0 +1,9 @@
+[submodule "themes/hugo-theme-mini"]
+	path = themes/hugo-theme-mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "themes/hugo-cite"]
+	path = themes/hugo-cite
+	url = https://github.com/loup-brun/hugo-cite.git
+[submodule "themes/hugo-shortcode-gallery"]
+	path = themes/hugo-shortcode-gallery
+	url = https://github.com/mfg92/hugo-shortcode-gallery.git
