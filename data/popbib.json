@@ -1,0 +1,283 @@
+[
+	{
+		"id": "http://zotero.org/users/6306336/items/9W4PF5EM",
+		"type": "post-weblog",
+		"container-title": "Neerlandistiek.nl",
+		"language": "Dutch",
+		"title": "Geen punt.",
+		"URL": "https://neerlandistiek.nl/2019/05/geen-punt/",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					5,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/CZP6DF4F",
+		"type": "post-weblog",
+		"container-title": "Neerlandistiek.nl",
+		"language": "Dutch",
+		"title": "Het hele land is zoommoe. Wat nu?",
+		"URL": "https://neerlandistiek.nl/2021/02/het-hele-land-is-zoommoe-wat-nu/",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/BLWUS2MV",
+		"type": "post-weblog",
+		"container-title": "Neerlandistiek.nl",
+		"language": "Dutch",
+		"title": "Niet zo into uw gevoelens verwoorden? Zeg het met een voorzetsel",
+		"URL": "https://neerlandistiek.nl/2020/06/niet-zo-into-je-gevoelens-verwoorden-zeg-het-met-een-voorzetsel/",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/9GHSPD99",
+		"type": "post-weblog",
+		"container-title": "Neerlandistiek.nl",
+		"language": "Dutch",
+		"title": "Wanneer we onze zinnen niet meer afmaken",
+		"URL": "https://neerlandistiek.nl/2020/04/wanneer-we-onze-zinnen-niet-meer-afmaken/",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					4,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/AGRVW8WB",
+		"type": "post-weblog",
+		"container-title": "Neerlandistiek.nl",
+		"language": "Dutch",
+		"title": "Op z'n hondjes",
+		"URL": "https://neerlandistiek.nl/2019/12/op-zn-hondjes/",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					12,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/CYA5992M",
+		"type": "post-weblog",
+		"container-title": "Neerlandistiek.nl",
+		"title": "De officieuze spellingshervorming",
+		"URL": "https://neerlandistiek.nl/2019/10/de-officieuze-spellingshervorming/",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/5NKG7MY5",
+		"type": "post-weblog",
+		"container-title": "Neerlandistiek.nl",
+		"language": "Dutch",
+		"title": "Een zoektocht van ‘zo maar’ naar zingeving in taalvariatie",
+		"URL": "https://neerlandistiek.nl/2019/03/een-zoektocht-van-zo-maar-naar-zingeving/",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					3,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/UBN7DDB5",
+		"type": "article-magazine",
+		"container-title": "De Lage Landen",
+		"title": "Shall I compare thee to a human being? Artificiële intelligentie en historische taal",
+		"URL": "https://www.de-lage-landen.com/article/shall-i-compare-thee-to-a-human-being-artificiele-intelligentie-en-historische-taal",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					8,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/EKXR66ML",
+		"type": "book",
+		"event-place": "Gorredijk",
+		"language": "Dutch",
+		"number-of-pages": "324",
+		"publisher": "Sterck & De Vreese",
+		"publisher-place": "Gorredijk",
+		"title": "Wat gebeurt er in het Nederlands?! Over taal, frequentie en variatie",
+		"editor": [
+			{
+				"family": "Van der Sijs",
+				"given": "Nicoline"
+			},
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			},
+			{
+				"family": "Van der Meulen",
+				"given": "Marten"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/BGGWVXJ6",
+		"type": "article-magazine",
+		"container-title": "DIXIT: tijdschrift over taal- en spraaktechnologie",
+		"language": "Dutch",
+		"title": "Wat kan taaltechnologie uit het heden met taal uit het verleden?",
+		"volume": "19",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/59FEQUXJ",
+		"type": "article-magazine",
+		"container-title": "Onze Taal",
+		"issue": "1",
+		"language": "Dutch",
+		"title": "Nooit te oud voor nieuwe woorden? Wat internettaal ons kan leren over taalverwerving",
+		"URL": "https://onzetaalwebwinkel.nl/januari-2021-onze-taal",
+		"volume": "90",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6306336/items/NCTPFFZV",
+		"type": "post-weblog",
+		"container-title": "Neerlandistiek.nl",
+		"language": "Dutch",
+		"title": "Veel bla bla, weinig boem boem",
+		"URL": "https://neerlandistiek.nl/2022/01/veel-bla-bla-weinig-boem-boem/",
+		"author": [
+			{
+				"family": "Fonteyn",
+				"given": "Lauren"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					25
+				]
+			]
+		}
+	}
+]

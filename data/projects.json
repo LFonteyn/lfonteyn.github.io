@@ -1,0 +1,15 @@
+{
+    "list": [
+      {
+          "name": "MacBERTh and GysBERT, Language Models for Historical English and Dutch (PDI-SSH 2020)",
+          "url": "https://macberth.netlify.app/",
+          "desc": "In this project, we created two language models (more specifically, BERT models) pre-trained on historical textual material (date range: 1450-1950). Researchers who interpret and analyse historical textual material are well-aware that languages are subject to change over time, and that the way in which concepts and discourses of class, gender, norms and prestige function in different time periods. As such, it is quite important that the interpretation of textual/linguistic material from the past is not approached from a present-day point-of-view, which is why NLP models pre-trained on present-day language data are less than ideal candidates for the job. This is where historical models like MacBERTh and GysBERT can help. As of 2021, **MacBERTh** (pre-trained on historical English, 1450-1950) has been published in the huggingface repository. As of 2022, **GysBERT** (pre-trained on historical Dutch, 1500-1950) has been published in the huggingface repository."
+      },
+      {
+        "name": "Complexity in Complementation. Understanding Long-term Change in Verb Complementation in terms of Inter- and Intra-individual Variation ",
+        "url": "https://www.uantwerpen.be/en/projects/mind-bending-grammars/related-projects/complexity/",
+        "desc": "This project investigates the impact of interindividual differences in cognitive representations on long-term population-level language change. Focussing on the system of English verb complementation, the study seeks to offer a unified cognitive and socio-linguistic account of syntactic variation and change that has so far been missing. In particular, it investigates (i) idiolectal variation in the constraints on alternating complementation patterns; (ii) the interaction between the linguistic behaviour of individuals and the (changing) distribution of grammatical variants at the population-level across different time stages. The research is carried out by modelling the observed patterns of stability or diffusion in terms of the weakening and strengthening of grammatical and cognitive constraints within a socially homogeneous group of individuals."
+    }
+   ]
+}
+
