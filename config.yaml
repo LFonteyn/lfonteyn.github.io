@@ -1,0 +1,114 @@
+baseURL: https://example.com
+languageCode: en-us
+title: Lauren Fonteyn
+theme:
+  - hugo-theme-mini
+  - hugo-cite
+  - hugo-shortcode-gallery
+publishDir: docs
+
+# Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
+defaultContentLanguage: en
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+# Hugo Configure Markup
+# More info: https://gohugo.io/getting-started/configuration-markup#
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Social links in footer, support github,twitter,stackoverflow,facebook
+social:
+  # e.g.
+  # github: your-github-link
+  # twitter: your-github-link
+  # stackoverflow: your-github-link
+  # facebook: your-facebook-link
+
+# Site parameters
+params:
+  # Site Author
+  author: Lauren Fonteyn
+  # Author biography
+  bio: Linguist, Illustrator
+  # Site Description, used in HTML meat
+  description: Academic website of Lauren Fonteyn
+  # Extended bio
+
+  bio_long: |
+    I am a cognitive linguist interested in using quantitative methods 
+    to get a firmer understanding of variation and change in language and culture. 
+    Some of my most recent work focusses on grammatical (morpho-syntactic) variation at the 
+    level of individual language users: Do native speakers of the same language abide by the same grammatical rules,
+    or can the grammatical knowledge of an individual be unique? Do individuals follow different grammatical rules
+    in different communicative settings? And is it possible to find evidence for 'grammatical lifespan change'?
+
+    My main expertise lies in working with (historical) linguistic/text corpora, and recently I have started 
+    exploring how machine learning models can help quantitatively investigate language variation and change, 
+    including the perhaps-not-so-easily-quantifiable aspects of language. 
+    You will find my publications on these subjects under [Publications](https://lfonteyn.github.io/publications/) 
+    (both academic and popularizing -- scroll down for the latter!).
+    For any questions, you may contact me at [my current work e-mail](l.fonteyn@hum.leidenuniv.nl) or at [my private e-mail](fonteyn_lauren@hotmail.com).
+
+    In my current position at Leiden University, a significant portion of my time is spent on teaching in the 
+    _English Language and Culture_ and _Linguistics_ programmes, as well as being part of the 
+    [Young Academy Leiden](https://www.universiteitleiden.nl/en/yal/members). In what little time there is left, 
+    I occasionally make illustrations -- some to liven up articles, and some just for fun. You'll 
+    find some examples including a link to the accompanying articles under [Illustrations](https://lfonteyn.github.io/illustrations/).
+
+    
+    
+
+    
+
+
+  ###########################################
+  # Optional Configuration
+  ###########################################
+
+  # To enable RSS, you could set `enableRSS: true`, default is `true`
+  enableRSS: false
+  # To enable comments, you may need to set `disqusShortname`
+  enableComments: false
+  # To enable comments, you may need to set `googleAnalytics`
+  enableGoogleAnalytics: false
+  # To enable table of content, you could set `showToc: true`, default is `false`
+  showToc: false
+  # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
+  showPowerBy: false
+  # To enable math typesetting , you could set `math: true`, default is `false`
+  math: false
+  # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
+  hiddenPostSummaryInHomePage: false
+  # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
+  copyright: '© Copyright 2023 | Lauren Fonteyn'
+  # Show a list of featured publications, file in data/publications.json
+  showpublicationslist: true
+  # Show a list of current projects, file in data/projects.json
+  showprojectslist: true
+  # Show a list of current projects, file in data/cv.json
+  showcvlist: true   
+
+  # Extra links in navigation
+  
+  links:
+    - name: Home
+      path: /
+    - name: Publications
+      path: /publications
+    - name: Illustrations
+      path: /illustrations
+
+  # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
+  customCSS:
+    ## e.g.
+    # - css/custom.css # local css in `static/css/custom.css`
+    # - https://example.com/custom.css # remote css
+  customJS:
+    ## e.g.
+    # - js/custom.js # local js in `static/js/custom.js`
+    # - https://example.com/custom.js # remote js
